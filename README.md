@@ -10,11 +10,11 @@ See CONTRIBUTING.md for contributions and SECURITY.md for private vulnerability 
 
 ## How the Praxis suite fits together
 
-[Praxis](https://praxis-reader.ethical-capital.workers.dev) aims to help people coordinate informed, accountable oversight of capital
-markets and shared planetary resources. Inspectable evidence, reasoning,
-disagreement and revision support that mission. It connects research contributors
-and affected communities with investment and governance decisions while retaining
-attribution, context and independent judgment.
+[Praxis](https://praxis-reader.ethical-capital.workers.dev) aims to support informed, accountable stewardship of our planet’s shared
+resources by connecting activist groups and capital markets through constructive
+disagreement. Inspectable evidence, reasoning and revision help participants
+understand and challenge one another’s claims while preserving attribution,
+context and independent judgment.
 [Ethical Capital](https://ethicic.com) develops and uses the suite.
 
 | Part | Role | Availability |
