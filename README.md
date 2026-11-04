@@ -10,19 +10,22 @@ See CONTRIBUTING.md for contributions and SECURITY.md for private vulnerability 
 
 ## How the Praxis suite fits together
 
-[Praxis](https://praxis-reader.ethical-capital.workers.dev) is the shared
-project: evidence, reasoning, disagreement and revision remain inspectable.
+[Praxis](https://praxis-reader.ethical-capital.workers.dev) aims to help people coordinate informed, accountable oversight of capital
+markets and shared planetary resources. Inspectable evidence, reasoning,
+disagreement and revision support that mission. It connects research contributors
+and affected communities with investment and governance decisions while retaining
+attribution, context and independent judgment.
 [Ethical Capital](https://ethicic.com) develops and uses the suite.
 
 | Part | Role | Availability |
 |---|---|---|
 | [Praxis public reader](https://praxis-reader.ethical-capital.workers.dev) | Read published research and inspect its supporting material | Public reader available; source repository is not public yet |
-| [Descartes](https://github.com/ethicalcapital/descartes) | Check exact evidence bytes and the structure of claims | Public contribution home available; source mirror is being prepared |
-| Rawls | Evaluate claims under named ethical frameworks, preserving the reasoning and disagreement | Planned module; public repository forthcoming |
-| Arendt | Make evaluations public and support challenges by affected people and institutions | Planned module; public repository not yet verified |
+| [Descartes](https://github.com/ethicalcapital/descartes) | Extract attributed, evidence-backed claims and check their evidence bytes and structure | Public contribution home available; source mirror is being prepared |
+| Rawls | Make ethical frameworks, affected parties, tolerances and evaluation reasoning inspectable | Planned module; public repository forthcoming |
+| Arendt | Support public association, response and accountable action | Planned module; public repository not yet verified |
 
 The intended flow is **sources → Descartes claims → Rawls evaluations →
-Arendt publication and contest**, coordinated by Praxis. Rawls and Arendt
+Arendt association, response and accountable action**, coordinated by Praxis. Rawls and Arendt
 are future capabilities, not working dependencies of today's Descartes
 checker. A quote match proves a relationship between bytes; it does not
 establish truth, fairness, consensus or an editorial endorsement. Current
